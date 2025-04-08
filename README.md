@@ -6,9 +6,9 @@ This project is a real-world AI application that detects **potholes on roads** u
 
 ## 🚀 Features
 
-- 🔍 Detects potholes in road images or video frames
-- 🧠 Uses a trained CNN (or YOLO/SSD) model for detection
-- 📷 Works with real-time camera feed or pre-recorded video
+- 🔍 Detects potholes in road images
+- 🧠 Uses a trained CNN (or YOLO) model for detection
+- 📷 Works with real-time camera feed
 - 💬 Optional alert or marking system for pothole locations
 
 ---
@@ -33,6 +33,6 @@ This project is a real-world AI application that detects **potholes on roads** u
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/pothole-detection.git
+   git clone https://github.com/AI-ML-dev4/Pothole-Detection.git
    cd pothole-detection
 
